@@ -7,3 +7,12 @@ root{
     --texto-fundo: rgba(58,55,94,0,3);
     
 }
+
+body{
+    bavkground-color: var(--cor-de-fundo);
+    color:var(--branco);
+    font-family: "Chakra Petch", sans-serof;
+}
+ conteudo-principaç{
+    
+ }
